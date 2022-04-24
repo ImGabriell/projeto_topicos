@@ -1,0 +1,44 @@
+h1
+{
+    color: aliceblue;
+    text-align: center;
+}
+
+article
+{
+    display: flex;
+}
+
+.buttonnotas
+{
+    text-align: center;
+    margin: 7px
+}
+
+table 
+{
+    width: 100%;
+}
+  
+td, th 
+{
+    text-align: center;
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    background-color: #dddddd;
+}
+  
+tr:nth-child(even) 
+{
+    background-color: #dddddd;
+}
+
+div h2
+{
+    text-align: center;
+    color: honeydew;
+}
+
+
+
